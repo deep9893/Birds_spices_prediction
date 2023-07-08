@@ -1,0 +1,5 @@
+setup.py
+birds_spices_prediction_project.egg-info/PKG-INFO
+birds_spices_prediction_project.egg-info/SOURCES.txt
+birds_spices_prediction_project.egg-info/dependency_links.txt
+birds_spices_prediction_project.egg-info/top_level.txt
