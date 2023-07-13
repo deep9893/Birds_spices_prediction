@@ -9,3 +9,5 @@
 
 * run test.py file
 * see the result
+
+* you can also run module.py file to upload image and see the result & find out the location of birds in tkinter module
